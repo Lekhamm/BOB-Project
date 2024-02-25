@@ -35,14 +35,14 @@ This platform is built using React for the front end and Java for the backend. O
 # Comments and likes
 ![image](https://github.com/Lekhamm/BOB-Project/assets/117354716/ce650569-5e26-4699-a09d-5cab8bc5cda9)
 
-# Notifications
-![image](https://github.com/Lekhamm/BOB-Project/assets/117354716/e352f555-0739-418a-8f58-30ad45a93866)
-
 # Search user
-![image](https://github.com/Lekhamm/BOB-Project/assets/117354716/93bc02cf-b6db-48d3-816e-e417afda69b6)
+![image](https://github.com/Lekhamm/BOB-Project/assets/117354716/916c1a29-ad23-47da-a412-e27bfbb543f0)
 
 # Creating new post
 ![image](https://github.com/Lekhamm/BOB-Project/assets/117354716/b9924549-71bd-4475-9145-4c7f55e48232)
+
+# Notifications
+![image](https://github.com/Lekhamm/BOB-Project/assets/117354716/e352f555-0739-418a-8f58-30ad45a93866)
 
 # Profile
 ![image](https://github.com/Lekhamm/BOB-Project/assets/117354716/aa5ef564-7c48-4b81-92b8-8ed711c15e79)
