@@ -1,6 +1,17 @@
 # Sociopaedia 
 This platform is built using React for the front end and Java for the backend. Our goal is to offer a fundamental social media experience where users can register, log in, share updates, connect with friends, like, comment, save posts, edit profiles, search for users, and much more. With React powering the front end and Java handling the backend, you have the flexibility to extend and customize your social media journey to suit your unique needs and preferences. 
 
+# Highlights
+-User registration and authentication system
+-Detailed user profiles featuring profile pictures and bios
+-Dynamic news feed showcasing updates from friends
+-Post creation and deletion capabilities
+-Ability to like and comment on posts and number of comments and likes are displayed
+-Follow functionality to stay updated with friends' posts
+-Unfollow feature for managing connections
+-User-friendly search functionality
+-Responsive design for seamless user experience
+
 # Database Schemas and Entities
 MySQL Database:
 MySQL is utilized as the primary database management system for this project. Below are the schemas and entities.
@@ -63,16 +74,26 @@ Entities:
 -user_id
 -saved_post_id
 
-# Highlights
--User registration and authentication system
--Detailed user profiles featuring profile pictures and bios
--Dynamic news feed showcasing updates from friends
--Post creation and deletion capabilities
--Ability to like and comment on posts and number of comments and likes are displayed
--Follow functionality to stay updated with friends' posts
--Unfollow feature for managing connections
--User-friendly search functionality
--Responsive design for seamless user experience
+# User :
+![image](https://github.com/Lekhamm/BOB-Project/assets/117354716/dc4bd880-f0be-4927-a262-e7b3afd43633)
+
+# comments:
+![image](https://github.com/Lekhamm/BOB-Project/assets/117354716/01026119-e80c-4610-abb9-f42a9c0d65c3)
+
+# posts:
+![image](https://github.com/Lekhamm/BOB-Project/assets/117354716/0f0b445f-9946-4e1b-b100-855f16b31e71)
+
+# comments_liked_by_user:
+![image](https://github.com/Lekhamm/BOB-Project/assets/117354716/ce1dac6e-951a-4ff8-b878-5abdb78d543a)
+
+# liked_by_user:
+![image](https://github.com/Lekhamm/BOB-Project/assets/117354716/7eef039c-b310-4b81-aad2-0089250cba71)
+
+# user_followers:
+![image](https://github.com/Lekhamm/BOB-Project/assets/117354716/a79fd749-95a1-41b8-9293-6f6082dae583)
+
+# user_saved_post
+![image](https://github.com/Lekhamm/BOB-Project/assets/117354716/5a171e94-a92c-45ca-b807-52ec178bdcae)
 
 # How to Use
 -Sign up for a new account or log in with your existing credentials.
@@ -114,6 +135,8 @@ Entities:
 
 # Feedback
 ![image](https://github.com/Lekhamm/BOB-Project/assets/117354716/3d575741-ccb6-45e3-b522-27c9d910fafa)
+
+
 
 
 
