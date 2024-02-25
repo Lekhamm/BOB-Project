@@ -1,0 +1,37 @@
+.sidebarBox {
+  padding: 1rem;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); /* Add a subtle box shadow */
+}
+
+.postsBox {
+  background-color: #dcd7d7e8; /* Grey background */
+  border-radius: 10px;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1); /* Add a soft shadow */
+}
+
+.storyCircle:hover {
+  transform: scale(1.05); /* Scale up the circle on hover */
+}
+
+.storyCircle {
+  border: 2px solid #392b7c; /* White border */
+  border-radius: 50%; /* Make it round */
+}
+
+.postsBox .postCard .username,
+.postsBox .postCard .location {
+  color: #333333; /* Dark grey */
+}
+
+.postsBox .postCard {
+  transition: transform 0.3s ease; /* Smooth transform on hover */
+}
+
+.postsBox .postCard:hover {
+  transform: translateY(-5px); /* Move up slightly on hover */
+}
+
+.postsBox .postCard {
+  background: linear-gradient(to bottom, rgba(205, 24, 24, 0.9), rgba(255, 255, 255, 0.7)); /* White gradient */
+}

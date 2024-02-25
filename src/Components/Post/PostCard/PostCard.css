@@ -1,0 +1,74 @@
+p {
+  font-size: small;
+}
+
+.commentBox {
+  box-sizing: border-box;
+  font-size: small;
+  /* other styles */
+}
+
+.commentInput {
+  border: none;
+  outline: none;
+  /* border-top: 1px solid rgb(191, 191, 191); */
+  width: 100%;
+  /* padding-bottom: .7rem; */
+  padding: .5rem .7rem;
+}
+
+.commentInput::placeholder {
+  font-size: small;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dots {
+  display: inline-block;
+  cursor: pointer;
+}
+
+.dropdown-content {
+  position: absolute;
+  z-index: 1;
+}
+
+.dropdown-content a {
+  display: block;
+  padding: 8px 16px;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+.commentInput {
+  /* existing styles */
+  background-image: linear-gradient(to right, #5a5353, #f5f4f4);
+}
+
+.dropdown:hover .dots {
+  /* existing styles */
+  background-image: linear-gradient(to right, #1e1d1d, #141313
+  );
+}
+
+.dropdown:hover .dots {
+  background-color: #000000;
+}
+/* Add shadow effect to the comment input */
+.commentInput {
+  border: none;
+  outline: none;
+  width: 30000000000%;
+  padding: .5rem .7rem;
+  box-shadow: 0 2px 4px rgba(35, 34, 37, 0.1);
+  border-radius: 8px;
+}
+
+
+
+
+

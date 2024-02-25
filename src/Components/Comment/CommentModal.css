@@ -1,0 +1,23 @@
+.comments{
+    /* overflow-y-scroll max-h-[50vh] */
+
+    overflow-y: scroll;
+    max-height: 40vh;
+
+}
+
+.comments::-webkit-scrollbar {
+    display: none; /* Safari and Chrome */
+  }
+  .emoji-smile {
+    margin-top: -3px; /* Adjust the margin-top to move the icon up */
+  }
+  
+
+  .commentInput{
+   
+    border: none;
+    outline: none;
+    padding: 5px;
+  }
+  
