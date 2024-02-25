@@ -3,7 +3,7 @@ This platform is built using React for the front end and Java for the backend. O
 
 # Database Schemas and Entities
 MySQL Database:
-MySQL is utilized as the primary database management system for this project. Below are the schemas and entities with careful consideration of primary and foreign keys for maintaining data integrity and relationships.
+MySQL is utilized as the primary database management system for this project. Below are the schemas and entities.
 
 Schema 1: Users
 Entities:
