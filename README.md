@@ -6,7 +6,7 @@ This platform is built using React for the front end and Java for the backend. O
 -Detailed user profiles featuring profile pictures and bios
 -Dynamic news feed showcasing updates from friends
 -Post creation and deletion capabilities
--Ability to like and comment on posts
+-Ability to like and comment on posts and number of comments and likes are displayed
 -Follow functionality to stay updated with friends' posts
 -Unfollow feature for managing connections
 -User-friendly search functionality
@@ -23,5 +23,38 @@ This platform is built using React for the front end and Java for the backend. O
 -Explore the dynamic news feed to stay informed about your friends' activities.
 -Logout securely when you're finished using the platform.
 
-# Register page
+# Login page
 ![image](https://github.com/Lekhamm/BOB-Project/assets/117354716/c93e41a3-fa49-4c15-8554-46d34ec972e4)
+
+# Register page
+![image](https://github.com/Lekhamm/BOB-Project/assets/117354716/701d1161-3c35-4575-a086-d73bc345cd1a)
+
+# Home
+![image](https://github.com/Lekhamm/BOB-Project/assets/117354716/800f691d-c169-44f5-8f81-b0ad8760e9dc)
+
+# Comments and likes
+![image](https://github.com/Lekhamm/BOB-Project/assets/117354716/ce650569-5e26-4699-a09d-5cab8bc5cda9)
+
+# Notifications
+![image](https://github.com/Lekhamm/BOB-Project/assets/117354716/e352f555-0739-418a-8f58-30ad45a93866)
+
+# Search user
+![image](https://github.com/Lekhamm/BOB-Project/assets/117354716/93bc02cf-b6db-48d3-816e-e417afda69b6)
+
+# Creating new post
+![image](https://github.com/Lekhamm/BOB-Project/assets/117354716/b9924549-71bd-4475-9145-4c7f55e48232)
+
+# Profile
+![image](https://github.com/Lekhamm/BOB-Project/assets/117354716/aa5ef564-7c48-4b81-92b8-8ed711c15e79)
+
+# Edit profile
+![image](https://github.com/Lekhamm/BOB-Project/assets/117354716/ed0f1d12-a9c3-428c-9bc6-ea02102457fc)
+
+
+
+
+
+
+
+
+
