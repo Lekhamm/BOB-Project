@@ -50,6 +50,10 @@ This platform is built using React for the front end and Java for the backend. O
 # Edit profile
 ![image](https://github.com/Lekhamm/BOB-Project/assets/117354716/ed0f1d12-a9c3-428c-9bc6-ea02102457fc)
 
+# Feedback
+![image](https://github.com/Lekhamm/BOB-Project/assets/117354716/3d575741-ccb6-45e3-b522-27c9d910fafa)
+
+
 
 
 
