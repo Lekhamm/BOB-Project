@@ -1,6 +1,68 @@
 # Sociopaedia 
 This platform is built using React for the front end and Java for the backend. Our goal is to offer a fundamental social media experience where users can register, log in, share updates, connect with friends, like, comment, save posts, edit profiles, search for users, and much more. With React powering the front end and Java handling the backend, you have the flexibility to extend and customize your social media journey to suit your unique needs and preferences. 
 
+# Database Schemas and Entities
+MySQL Database:
+MySQL is utilized as the primary database management system for this project. Below are the schemas and entities with careful consideration of primary and foreign keys for maintaining data integrity and relationships.
+
+Schema 1: Users
+Entities:
+-id (Primary Key)
+-username
+-email
+-password 
+
+Schema 2:Comment
+Entities:
+-id (Primary Key)
+-username
+-content
+-email
+-user_image
+
+Schema 3: posts
+Entities:
+-id
+-caption
+-image
+-location
+-user_id
+-username
+
+Schema 4: comments_liked_by_users
+Entities:
+-id
+-comment_id
+-email
+-user_image
+-username
+
+Schema 5:posts_comments
+Entities:
+-post_id
+-comment_id
+
+Schema 6:user_follower
+Entities:
+-user_id
+-id
+-email
+-user_image
+-username
+
+Schema 7:user_following
+Entities:
+-user_id
+-id
+-email
+-user_image
+-username
+
+Schema 7:user_saved_post
+Entities:
+-user_id
+-saved_post_id
+
 # Highlights
 -User registration and authentication system
 -Detailed user profiles featuring profile pictures and bios
