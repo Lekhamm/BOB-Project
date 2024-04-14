@@ -1,4 +1,4 @@
-
+# Sociopedia:(A Social media application)
 This platform is built using React and Redux  for the front end and Java for the backend. Our goal is to offer a fundamental social media experience where users can register, log in, share updates, connect with friends, like, comment, save posts, edit profiles, search for users, and much more. With React powering the front end and Java handling the backend, you have the flexibility to extend and customize your social media journey to suit your unique needs and preferences. 
 
 # Highlights
